@@ -1,0 +1,1 @@
+java -cp . -Djava.rmi.server.hostname=localhost workerServer.ComputeEngine localhost 8000

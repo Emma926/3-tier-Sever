@@ -1,0 +1,1 @@
+java -cp . -Djava.rmi.server.hostname=localhost workerServer.QueuedServer localhost 8000

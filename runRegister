@@ -1,0 +1,1 @@
+rmiregistry -J-Djava.rmi.server.useCebaseOnly=false -J-Djava.rmi.server.codebase=file:///workerServer/ 8000
